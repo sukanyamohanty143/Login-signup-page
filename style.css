@@ -1,0 +1,110 @@
+#main-content{
+    width: 1090px;
+    height: 600px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+
+}
+
+#content1{
+    width: 65%; 
+    height: 100%;
+    text-align: center;
+    margin-top: 100px;
+}
+
+#content2{
+    width: 35%;
+    height: 100%;
+    background-color: rgb(140, 6, 235);
+}
+
+#email{
+    width: 50%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    border: 1px;
+}
+
+#password{
+    width: 50%;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: whitesmoke;
+    border: 1px;
+}
+
+#button-in{
+    width: 30%;
+    height: 40px;
+    background-color: rgb(140, 6, 235);
+    border: 1px;
+margin-top: 10px;
+border-radius: 20px;
+}
+
+#button-up{
+    width: 50%;
+    height: 40px;
+    background-color: white;
+    border: 1px;
+margin-top: 10px;
+border-radius: 20px;
+}
+
+#facebook-logo{
+    margin: 5px;
+    width: 40px;
+    height: 30px;
+}
+
+#google-logo{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+#linkedin-logo{
+    margin: 5px;
+    width: 30px;
+    height: 30px;
+}
+#new-here{
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+}
+
+#or{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+    justify-content: space-around;
+}
+#Input{
+    width: 5%;
+    height: 3%;
+    border: 1px solid white;
+    margin-left: auto;
+    margin-right: auto;
+}
+h6{
+    margin-top: 40px;
+}
+#line{
+    color: rgb(74, 73, 73);
+    margin-top: 30px;
+}
+h1{
+    font-size: xx-large;
+    font: 1000;
+}
